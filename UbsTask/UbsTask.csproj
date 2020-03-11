@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BasePage.cs" />
+    <Compile Include="CartPage.cs" />
     <Compile Include="TogetherbandPage.cs" />
     <Compile Include="DriverFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
